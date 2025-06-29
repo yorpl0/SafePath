@@ -33,6 +33,14 @@ Flutter
   - location 5.0.0
   - http 0.13.4
 
+# Team Members
+1) Karan Malik (Team Leader)
+2) Avneesh Kumar
+3) Gokul Raj M
+4) Yash Mohan
+5) Sanmit Sarkar
+6) Nishtha Garg
+
 # Installation
 
 1) Install the required dependencies

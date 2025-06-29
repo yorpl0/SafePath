@@ -10,6 +10,17 @@ This project aims to utilize AI tools integrated with App development to tackle 
 2)  Determine the sex ratio as males/females.
 3)  If higher than threshold (currently set to 1) , Notify the application user of potential danger.
 
+# Team Members
+1) Karan Malik (Team Leader)
+2) Avneesh Kumar
+3) Gokul Raj M
+4) Yash Mohan
+5) Sanmit Sarkar
+6) Nishtha Garg
+
+
+
+
 # Demonstration
 
 ![alt-text](https://github.com/avneesh10115/SafePath/blob/main/Demo/demo.gif)
@@ -33,13 +44,6 @@ Flutter
   - location 5.0.0
   - http 0.13.4
 
-# Team Members
-1) Karan Malik (Team Leader)
-2) Avneesh Kumar
-3) Gokul Raj M
-4) Yash Mohan
-5) Sanmit Sarkar
-6) Nishtha Garg
 
 # Installation
 
